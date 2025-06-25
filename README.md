@@ -26,14 +26,4 @@ This repo is a growing collection of my hand-picked **C programming solutions**.
 
 ---
 
-## 📂 **FOLDER STRUCTURE**
 
-```plaintext
-📁 daily-c-problems/
- ┣ 📁 Day01/
- ┃ ┗ 📄 problem1.c
- ┣ 📁 Day02/
- ┃ ┗ 📄 problem2.c
- ┣ 📁 Day03/
- ┃ ┗ 📄 problem3.c
- ┗ 📄 README.md
